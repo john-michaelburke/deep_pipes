@@ -1,5 +1,6 @@
 # Georgia Tech OMSCS CS7643: Final Project
-## Super Mario Bros - Deep Reinforcement Learning with Proximal Policy Optimization (PPO)
+## Super Mario Bros - Deep Reinforcement Learning
+## Proximal Policy Optimization (PPO) Implementation
 
 https://user-images.githubusercontent.com/43353147/236643104-99cf7419-748d-47b5-9b55-d63c89b6add5.mp4
 
