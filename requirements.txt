@@ -1,0 +1,5 @@
+numpy
+pyyaml
+gym-super-mario-bros
+seaborn
+

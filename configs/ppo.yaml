@@ -1,0 +1,10 @@
+model: PPO
+#load_model: "checkpoints/PPO/PPO_3044.6_.pth"
+render: False
+#train_csv_path: "checkpoints/PPO/PPO_20211212-142408_seed1331.csv"
+#test_csv_path: "checkpoints/PPO/PPO_20211215-191957_seed1331.csv"
+train_csv_path: ""
+test_csv_path: ""
+load_model: ""
+test: False
+train: True
